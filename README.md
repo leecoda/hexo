@@ -1,0 +1,2 @@
+# hexo
+test private Blog
